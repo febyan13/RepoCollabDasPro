@@ -4,4 +4,4 @@ Hasil Uji Studi Kasus 2 oleh (YUSRI AHMAD FAUZI)
 | 1  | PKM     | 4       | 1 (LOLOS)  |BERHAK  | YA      |
 | 2  | BERMAWA | 4       | JUARA 1    |BERHAK  | YA      |
 | 3  | BAKORMA | 3       | JUARA 1    |BERHAK  | YA      |
-| 4  | PKM     | 4       | 1 (LOLOS)  |BERHAK  | YA      |
+| 4  | PKM     | 4       | 1 (LOLOS)  |BERHAK  | YA      | 
