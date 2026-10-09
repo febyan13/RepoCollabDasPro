@@ -1,5 +1,3 @@
-package pertemuanke7;
-
 import java.util.Scanner;
 
 public class StudiKasus2_28 {
